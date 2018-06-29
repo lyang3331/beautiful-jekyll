@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Fourth Month
 ---
 First time traveling!
@@ -27,4 +27,4 @@ the pigweed cracking each hardscrabble backlot.
 
 It’s a matter of perspective: yours is to love me      
 from a block away & mine is to praise the grain-  
-iness that weaves expressively: your face.  
+iness that weaves expressively: your face.
