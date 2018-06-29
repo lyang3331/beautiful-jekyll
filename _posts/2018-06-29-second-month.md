@@ -14,32 +14,37 @@ The only thing remained not changing is the happy time we spent together.
 ### Recitative
 BY A. E. STALLINGS
 
-Every night, we couldn’t sleep.   
-Our upstairs neighbors had to keep 
-Dropping something down the hall— 
-A barbell or a bowling ball, 
+Every night, we couldn’t sleep.     
+Our upstairs neighbors had to keep   
+Dropping something down the hall—   
+A barbell or a bowling ball,   
 
-And from the window by the bed, 
-Echoing inside my head, 
-Alley cats expended breath 
-In arias of love and death. 
 
-Dawn again, across the street, 
-Jackhammers began to beat 
-Like hangovers, and you would frown— 
-That well-built house, why tear it down? 
+And from the window by the bed,   
+Echoing inside my head,   
+Alley cats expended breath   
+In arias of love and death.   
 
-Noon, the radiator grill 
-Groaned, gave off a lesser chill 
-So that we could take off our coats. 
-The pipes coughed to clear their throats. 
 
-Our nerves were frayed like ravelled sleeves, 
-We cherished each our minor griefs 
-To keep them warm until the night, 
-When it was time again to fight; 
+Dawn again, across the street,   
+Jackhammers began to beat   
+Like hangovers, and you would frown—   
+That well-built house, why tear it down?   
 
-But we were young, did not need much 
-To make us laugh instead, and touch, 
-And could not hear ourselves above 
-The arias of death and love.
+
+Noon, the radiator grill   
+Groaned, gave off a lesser chill   
+So that we could take off our coats.   
+The pipes coughed to clear their throats.   
+
+
+Our nerves were frayed like ravelled sleeves,   
+We cherished each our minor griefs   
+To keep them warm until the night,   
+When it was time again to fight;   
+
+
+But we were young, did not need much   
+To make us laugh instead, and touch,   
+And could not hear ourselves above   
+The arias of death and love.  
