@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Third Month
 ---
 Went back to Cornell together! 
@@ -28,4 +28,4 @@ The music picks up again, I am the man I hope to be
 The bright air hangs freely near your newly cut hair  
 It is so easy now to see gravity at work in your face  
 Easy to understand time, that dark process  
-To accept it as a beautiful process, your face  
+To accept it as a beautiful process, your face
