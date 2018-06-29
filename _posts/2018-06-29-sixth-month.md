@@ -1,11 +1,14 @@
 ---
 layout: post
-published: false
+published: true
 title: Sixth Month
 ---
 Finally arrived the season for harvest. Got an offer and "gap" mode started.
 
 Thank you so much for all the help and encouragement for these excruciating yet fruitful four months' of job searching. Let's party it out!
+
+
+![dec.png]({{site.baseurl}}/img/dec.png)
 
 
 ### Love After Love
