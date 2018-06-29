@@ -5,7 +5,7 @@ title: Second Month
 ---
 So many things happened in August. Finished internship, moved to new apartment, got hair cut, and started to get ready for job seeking. 
 
-The only thing remained not changing is the happy time we spent together.
+The only thing remained unchanged is the happy time we spent together.
 
 
 ![august.png]({{site.baseurl}}/img/august.png)
@@ -47,4 +47,4 @@ When it was time again to fight;
 But we were young, did not need much   
 To make us laugh instead, and touch,   
 And could not hear ourselves above   
-The arias of death and love.  
+The arias of death and love.
