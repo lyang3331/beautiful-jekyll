@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Second Month
 ---
 So many things happened in August. Finished internship, moved to new apartment, got hair cut, and start to get ready for job seeking. 
