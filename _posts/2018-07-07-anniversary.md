@@ -2,7 +2,7 @@
 layout: post
 published: true
 title: One Year Anniversary
-image: /img/hello_world.jpeg
+image: /img/q.png
 date: '2018-07-07'
 ---
 Time flies.
