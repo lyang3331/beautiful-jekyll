@@ -13,4 +13,4 @@ Love is endless and love is free
 Love's everything to you and me    
 Love is now and love will always be    
 Love's everywhere to those who see    
-                - George Krokos
+                        - George Krokos
