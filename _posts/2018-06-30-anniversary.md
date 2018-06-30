@@ -3,10 +3,13 @@ layout: post
 published: true
 title: One Year Anniversary
 image: /img/hello_world.jpeg
+date: '2018-07-07'
 ---
 Time flies.
 
 The past one year was wonderful with you by my side. You’ve given me a reason to smile and a reason to be happy. Just knowing that you love me is enough to make my life complete. Happy one year anniversay!
+
+![anni.png]({{site.baseurl}}/img/anni.png)
 
 
 ### Sonnet 18 - Shall I Compare Thee to a Summer’s Day?
