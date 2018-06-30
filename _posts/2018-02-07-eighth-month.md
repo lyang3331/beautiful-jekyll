@@ -12,5 +12,4 @@ Played piano first time in ten years, only for you. Will always remember the bea
 Love is endless and love is free    
 Love's everything to you and me    
 Love is now and love will always be    
-Love's everywhere to those who see    
-                        - George Krokos
+Love's everywhere to those who see   
