@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Eighth Month
 ---
 Happy birthday to both of us!
@@ -14,5 +14,4 @@ Played piano first time in ten years, only for you. Will always remember the bea
 -> Love is now and love will always be
 -> Love's everywhere to those who see
 
-->                    - George Krokos 
-
+->                    - George Krokos
