@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Seventh Month
 ---
 Enjoyed being your little wife.
@@ -27,4 +27,4 @@ Nor ought but love from thee give recompense.
 Thy love is such I can no way repay;  
 The heavens reward thee manifold, I pray.  
 Then while we live, in love let’s so persever,  
-That when we live no more, we may live ever.  
+That when we live no more, we may live ever.
