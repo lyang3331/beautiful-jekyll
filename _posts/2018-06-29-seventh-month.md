@@ -8,7 +8,7 @@ Enjoyed being your little wife.
 Such a relaxing month...Trying to figure out what delicacies to cook everyday and simply got satisfied by your smile when you tasted the dinner. 
 
 
-![jan.png]({{site.baseurl}}/img/sea.png)
+![sea.png]({{site.baseurl}}/img/sea.png)
 
 
 ### To My Dear and Loving Husband 
