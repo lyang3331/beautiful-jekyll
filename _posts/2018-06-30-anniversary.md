@@ -1,7 +1,7 @@
 ---
 layout: post
-published: false
-title: Anniversary
+published: true
+title: One Year Anniversary
 ---
 Time flies.
 
@@ -25,4 +25,4 @@ Nor lose possession of that fair thou owest;
 Nor shall Death brag thou wander'st in his shade,  
 When in eternal lines to time thou growest:  
 So long as men can breathe or eyes can see,  
-So long lives this, and this gives life to thee.  
+So long lives this, and this gives life to thee.
