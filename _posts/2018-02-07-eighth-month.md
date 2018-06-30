@@ -9,8 +9,8 @@ Played piano first time in ten years, only for you. Will always remember the bea
 
 ![feb.png]({{site.baseurl}}/img/feb.png)
 
-Love is endless and love is free  
-Love's everything to you and me  
-Love is now and love will always be  
-Love's everywhere to those who see  
-                George Krokos
+Love is endless and love is free    
+Love's everything to you and me    
+Love is now and love will always be    
+Love's everywhere to those who see    
+                - George Krokos
