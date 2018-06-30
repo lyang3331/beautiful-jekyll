@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Tenth Month
 ---
 Colorful!
@@ -26,4 +26,4 @@ a womanly mirage
 I am amazed by peace  
 It is this possibility of you  
 asleep  
-and breathing in the quiet air  
+and breathing in the quiet air
